@@ -17,7 +17,7 @@
 ![image](https://github.com/user-attachments/assets/e197328b-4b3b-4741-9ec9-7920d1994a68)
 
 
-**4. Inspire Me AI - приложение отправляет уведомления на любую тему, сгенерированные ChatGPT. Бэкенд написан на Go. [Google Play](https://play.google.com/store/apps/details?id=ivan.daily.compliments)**
+**4. Inspire Me AI - приложение на iOS\Android отправляет уведомления на любую тему, сгенерированные ChatGPT. Дизайн делал сам, бэкенд написан на Go. [Google Play](https://play.google.com/store/apps/details?id=ivan.daily.compliments)**
 
 ![image](https://github.com/user-attachments/assets/890c71c3-868f-47bb-b892-d1c9df1d3a46)
 
